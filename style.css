@@ -1,0 +1,10 @@
+h1{
+    font-size: 60px;
+    color :aquamarine
+}
+.div{
+    font-size: 20px;
+    color :beige;
+    background-color:lightpink;
+    border :5px dotted palevioletred;
+};
